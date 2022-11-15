@@ -1,5 +1,5 @@
 
-# Project Title
+# Movie-Recommendation-System-Using-ML
 In this machine learning project where using Pandas library we can find correlation and created basic Movie Recommender System with Python.
 
 In the end, we'll be able to type the name of a movie into an input box, and instantly get recommendations for other movies we might like.
